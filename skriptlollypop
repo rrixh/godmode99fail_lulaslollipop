@@ -1,1 +1,2 @@
-loadstring(game:HttpGet("https://pastebin.com/raw/RWLVhV4N"))()
+loadstring(game:HttpGet("https://pastebin.com/raw/zdkZKF7H",true))()
+--gmblist
